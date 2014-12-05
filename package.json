@@ -1,0 +1,43 @@
+{
+  "name": "tween-objects",
+  "version": "1.0.0",
+  "description": "tween object and arrays of objects",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "an-array": "^1.0.0",
+    "inherits": "^2.0.1",
+    "lerp-array": "^1.1.1",
+    "tween-base": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tweenr",
+    "ticker",
+    "tween",
+    "ticker",
+    "animation",
+    "animate",
+    "anim",
+    "object",
+    "array"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/tween-objects.git"
+  },
+  "homepage": "https://github.com/mattdesl/tween-objects",
+  "bugs": {
+    "url": "https://github.com/mattdesl/tween-objects/issues"
+  }
+}

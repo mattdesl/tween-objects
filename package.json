@@ -1,6 +1,6 @@
 {
   "name": "tween-objects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tween object and arrays of objects",
   "main": "index.js",
   "license": "MIT",

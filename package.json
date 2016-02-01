@@ -13,6 +13,7 @@
     "an-array": "^1.0.0",
     "inherits": "^2.0.1",
     "lerp-array": "^1.1.1",
+    "own-enumerable-keys": "^1.0.0",
     "tween-base": "^2.1.0"
   },
   "devDependencies": {
